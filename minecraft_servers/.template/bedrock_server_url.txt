@@ -1,0 +1,1 @@
+bedrock_server_url="https://minecraft.azureedge.net/bin-linux/bedrock-server-1.19.30.04.zip"
